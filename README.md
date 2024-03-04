@@ -1,7 +1,3 @@
-# Peggle Clone
-
-A peggle clone for iOS built from scratch.
-
 ## Rules of the Game
 
 ### Firing the Cannon
